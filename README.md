@@ -1,7 +1,7 @@
-// Searching a 2-D Array using Recursion 
+// Searching a 2-D Array using Recursion
 // COSC 211 Programming Data Structures, Elsa Poh
 // Winter 2021
-// Authors: Alex McNulty & Farha Zinda
+// Authors: Alex McNulty & Farha Z.
 // READ ME file
 // Searching a 2-D Array using Recursion 
 
